@@ -1,0 +1,1 @@
+Very simple page with a xbox symol in the top right that would allow the switch to the Xbox pages which would load the same data justa bit different
